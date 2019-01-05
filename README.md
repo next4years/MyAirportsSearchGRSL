@@ -23,7 +23,7 @@ a simple demo for paper 'Airport Detection in Large-Scale SAR Images via Line Se
 ### Notice
 
 * We only test this demo on MATLAB 2015b and 2016b.
-* We use the LSD code in `LSD-OpenCV-MATLAB`, which can be find [here][id2]. The original code and paper of LSD can be found [here][id3].
+* We use the LSD code in `LSD-OpenCV-MATLAB` which can be found [here][id2]. The original code and paper of LSD can be found [here][id3].
 
 
 [id1]: https://opencv.org/opencv-3-2.html
