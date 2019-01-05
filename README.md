@@ -2,7 +2,7 @@
 a simple demo for paper 'Airport Detection in Large-Scale SAR Images via Line Segment Grouping and Saliency Analysis'
 
 ### Usage
-1. Download `OpenCV 3.2.0` [here][id1], and copy `opencv_world320.dll` to `\utils` folder.
+1. Download `OpenCV 3.2.0` [here][id1], and copy the DLL file `opencv\build\x64\vc14\bin\opencv_world320.dll` to `utils\` folder.
 
 2. Run `Demo.m` .
 
