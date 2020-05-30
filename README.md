@@ -8,15 +8,18 @@ a simple demo for paper 'Airport Detection in Large-Scale SAR Images via Line Se
 
 ### Citation
 
->  @ARTICLE{   8275484,
->
->  ​    author={N. Liu and Z. Cui and Z. Cao and Y. Pi and S. Dang},
->
->  ​    journal={IEEE Geoscience and Remote Sensing Letters}, 
->
->  ​    title={Airport Detection in Large-Scale SAR Images via Line Segment Grouping and Saliency Analysis}, 
->
->  ​    year={2018}}
+>  ```
+>  @article{liu2018airport,
+>    title={Airport detection in large-scale SAR images via line segment grouping and saliency analysis},
+>    author={Liu, Nengyuan and Cui, Zongyong and Cao, Zongjie and Pi, Yiming and Dang, Sihang},
+>    journal={IEEE Geoscience and Remote Sensing Letters},
+>    volume={15},
+>    number={3},
+>    pages={434--438},
+>    year={2018},
+>    publisher={IEEE}
+>  }
+>  ```
 
 
 
