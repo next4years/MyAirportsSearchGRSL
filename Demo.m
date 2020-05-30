@@ -7,7 +7,17 @@
 % 
 % Thanks primetang for LSD-OpenCV-MATLAB, which can be found at https://github.com/primetang/LSD-OpenCV-MATLAB
 % 
-% N. Liu, Z. Cui, Z. Cao, Y. Pi and S. Dang, "Airport Detection in Large-Scale SAR Images via Line Segment Grouping and Saliency Analysis," in IEEE Geoscience and Remote Sensing Letters, vol. 15, no. 3, pp. 434-438, March 2018.
+% Citation:
+%     @article{liu2018airport,
+%       title={Airport detection in large-scale SAR images via line segment grouping and saliency analysis},
+%       author={Liu, Nengyuan and Cui, Zongyong and Cao, Zongjie and Pi, Yiming and Dang, Sihang},
+%       journal={IEEE Geoscience and Remote Sensing Letters},
+%       volume={15},
+%       number={3},
+%       pages={434--438},
+%       year={2018},
+%       publisher={IEEE}
+%     }
 %------------------------------------------------------
 % 
 % 
