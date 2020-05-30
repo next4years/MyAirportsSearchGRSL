@@ -25,7 +25,3 @@ publisher={IEEE}
 
 * We only test this demo on MATLAB 2015b and 2016b.
 * We use the LSD code in `LSD-OpenCV-MATLAB` which can be found [here](https://github.com/primetang/LSD-OpenCV-MATLAB). The original code and paper of LSD can be found [here](http://www.ipol.im/pub/art/2012/gjmr-lsd/ ).
-
-### Reference
-
-[1] Xiaohui Li, Huchuan Lu, Ming-Hsuan Yang, Lihe Zhang and Xiang Ruan. Saliency Detection Via Dense and Sparse Reconstruction. International Conference on Computer Vision (ICCV), 2013. [[Github](https://github.com/huchuanlu/13_1)]
