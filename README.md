@@ -1,3 +1,5 @@
+**FYI：This project has been archived.**
+
 # AirportDetection
 a simple demo for paper 'Airport Detection in Large-Scale SAR Images via Line Segment Grouping and Saliency Analysis'
 
